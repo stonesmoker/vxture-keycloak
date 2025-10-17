@@ -1,0 +1,20 @@
+{
+  "cSpell.enabled": true,
+  "cSpell.useGitignore": true,
+  "cSpell.language": "en",
+  "cSpell.dictionaryDefinitions": [],
+  "cSpell.import": [
+    "./cspell.json"
+  ],
+  "cSpell.workspaceFolder": "${workspaceFolder}"
+}
+{
+  "cSpell.words": [
+    "adoc",
+    "Adoptium",
+    "Dskip",
+    "hotspot",
+    "mvnw",
+    "quarkus"
+  ]
+}
